@@ -1,0 +1,162 @@
+body {
+    background-color: black;
+}
+
+#topdiv {
+    position: relative;
+    height: 800px;
+}
+
+#logo {
+    position: relative;
+    top: -43em;
+    left: 38px;
+    color: red;     
+}
+
+#signIn {
+    width: 80px;
+    height: 35px;
+    position: relative;
+    border: solid 1px red;
+    border-radius: 3px 3px 3px 3px;
+    top: -48.8em   ;
+    left: 73em;    
+    font-size: 15px;
+    color: white;
+    background-color: red;
+}
+
+.toptext {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -40em;
+    left: 0em;
+}
+
+#email {
+width: 390px;
+height: 50px;
+position: relative;
+top: 0em;
+left: 1em;
+}
+
+#button {
+    position: relative;
+    left: .3em;
+    top: .2em;
+    border: red;
+}
+
+#line{
+    margin-top: -7.8em;
+}
+
+
+ #middlediv{
+    background-color: black;
+} 
+
+.middle-text {
+    color: white;
+    position: relative;
+    left: 5em;
+    top: 3.5em;
+}
+
+
+.video {
+    width: 24.7em;
+    position: relative;
+    left: 0.6em;
+    top: 1.4em;
+}   
+
+.netflix-img2 {
+    width: 34em;
+    top: -18em;
+    right: 4em;
+    position: relative;
+    background-color: transparent;
+}
+
+.flexin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    height: 300px;
+}
+
+.flexin > div {
+    margin: 10px;
+    padding: 50px;
+}
+
+#line2 {
+    margin-top: 11em;
+}
+
+#bottomdiv {
+    position: relative;
+    height: 90px;
+}
+
+#bottom-text {
+    color: white;
+    position: relative;
+    left: 44em;
+    top: 7em;
+}
+
+#netflix-img3 {
+    width: 31em;
+    position: relative;
+    top: -13.2em;
+    left: 6em;
+}
+
+#download-div {
+    width: 22em;
+    height: 5.6em;
+    position: relative;
+    border: solid 2px gray;
+    border-radius: 15px 15px 15px 15px;
+    top: -20.9em;
+    left: 10em;
+    background-color: black;
+}
+
+#netflix-img4 {
+    height: 4.5em;
+    top: .5em;
+    left: .7em;
+    position: relative;
+}
+
+#download-text {
+    color: white;
+    position: relative;
+    top: -4.4em;
+    left: 5em;
+}
+
+#download-text2 {
+    color: rgb(0, 123, 255);
+    position: relative;
+    top: -5.5em;
+    left: 5em;
+}
+
+#download-img {
+    width: 3em;
+    position: relative;
+    top: -9.6em;
+    left: 18em;
+}
+
+#line3 {
+    margin-top: 22em;
+}
